@@ -49,8 +49,8 @@ To allow URLs, add them to an `ALLOWED_URLS` environment variable. For example t
 export ALLOWED_URLS="^https:\/\/pypi\.org\/simple\/flask\/$
 ^https:\/\/files\.pythonhosted\.org\/packages\/.+\/Flask.+(tar\.gz|whl)$
 <other urls here>
-<separated by newlines>
-"
+<separated by newlines>"
+```
 
 ### Using
 
